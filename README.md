@@ -9,8 +9,11 @@ Simple interactive deployment about Caesar Chiper encrypt/decrypt in Streamlit
 <br> Enter the message to encrypt/decrypt in the text input field.
 <br> Click the "Encrypt" or "Decrypt" button.
 <br> The encrypted/decrypted message will be displayed in the success message.
-## Example:
 
+
+## Example:
+![imgae_1](https://github.com/MuhammadAinurR/caesar-chiper-streamlit/blob/main/ouput/output_1.png)
+![image_2](https://github.com/MuhammadAinurR/caesar-chiper-streamlit/blob/main/ouput/output2.png)
 
 
 ## Notes:
